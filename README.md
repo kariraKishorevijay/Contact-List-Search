@@ -1,5 +1,6 @@
 # Contact-List-Search
 Contact List Search Project Description
+
 # Project Overview:
 The Contact List Search project aims to develop a robust and user-friendly application that allows users to efficiently search through and manage their contact lists. This application will provide functionalities such as searching, sorting, filtering, and editing contact information. It will cater to individuals and businesses who need to keep their contact information organized and easily accessible.
 
